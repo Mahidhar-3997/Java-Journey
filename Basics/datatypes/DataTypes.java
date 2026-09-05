@@ -30,7 +30,7 @@ public class DataTypes {
     }
 
 }
-/*
+/* Understanding about primitie datatypes.
  * whatever we are written in the double quotes jvbm treat it as string
  * And (+) is used for concatination after that printing the value
  */
