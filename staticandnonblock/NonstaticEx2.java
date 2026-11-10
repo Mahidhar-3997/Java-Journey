@@ -31,3 +31,4 @@ class Car {
     }
 
 }
+//non static block is used to initialize the non static members.
