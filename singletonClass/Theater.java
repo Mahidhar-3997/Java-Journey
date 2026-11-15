@@ -25,3 +25,5 @@ public class Theater {
         }
     }
 }
+// for single ton class we can create maximum one object wiht the help of
+// factory method"
