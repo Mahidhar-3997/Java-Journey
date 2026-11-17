@@ -1,6 +1,6 @@
 public class FinalRefVariable {
     public static void main(String[] args) {
-        Pages p1 = new Pages();
+        final Pages p1 = new Pages();
 
         System.out.println(p1.pages);
         p1.pages = 50;// no error p1 is final not pages
